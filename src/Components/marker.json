@@ -1,0 +1,112 @@
+[
+    {
+        "lat": 21.027764,
+        "lng": 105.83416,
+        "name": "Paradise",
+        "img": "https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-1/p320x320/29542365_2098100787089719_6079261423401293258_n.jpg?_nc_cat=108&_nc_ht=scontent.fhan3-3.fna&oh=154db60f6b1446d2a7c5e564a5d7cbc2&oe=5CA4D883",
+        "address": "Số 34 Ngõ 41- Phố Đông Tác",
+        "infomation": "Tuyển nhân viên",
+        "phoneNumber": "094 413 06 88",
+        "website": "paradise.com.vn",
+        "icon": "/img/game.png",
+        "label": "1",
+        "defaultTitle": "Part time Job"
+    },
+    {
+        "lat": 20.989033,
+        "lng": 105.801079,
+        "name": "Nhà hàng Mẹt Quán - Lợn Mán Mẹt",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNYTp6PjVN9SYHTXAxNut8fc-unKj39NUOyU7mS=w408-h306-k-no",
+        "address": "Ngõ 477 Nguyễn Trãi, Thanh Xuân Nam, Thanh Xuân, Hà Nội ",
+        "infomation": "Tuyển nhân viên",
+        "phoneNumber": "+84 96 375 38 83",
+        "website": "non.com.vn",
+        "icon": "/img/supermarket.png",
+        "label": "1",
+        "defaultTitle": "Part time Job"
+    },
+    {
+        "lat": 20.992258, 
+        "lng": 105.803590,
+        "name": "Viettel Store",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNYTp6PjVN9SYHTXAxNut8fc-unKj39NUOyU7mS=w408-h306-k-no",
+        "address": "514 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+        "infomation": "Tuyển nhân viên kinh doanh",
+        "phoneNumber": "+84 24 6285 6568",
+        "website": "viettelstore.vn",
+        "icon": "/img/game.png",
+        "label": "1",
+        "defaultTitle": "Full time Job"
+    }
+    ,
+    {
+        "lat": 20.592258, 
+        "lng": 105.803590,
+        "name": "Viettel Store",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNYTp6PjVN9SYHTXAxNut8fc-unKj39NUOyU7mS=w408-h306-k-no",
+        "address": "514 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+        "infomation": "Tuyển nhân viên kinh doanh",
+        "phoneNumber": "+84 24 6285 6568",
+        "website": "viettelstore.vn",
+        "icon": "/img/game.png",
+        "label": "1",
+        "defaultTitle": "Full time Job"
+    }
+    ,
+    {
+        "lat": 20.192258, 
+        "lng": 105.804590,
+        "name": "Viettel Store",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNYTp6PjVN9SYHTXAxNut8fc-unKj39NUOyU7mS=w408-h306-k-no",
+        "address": "514 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+        "infomation": "Tuyển nhân viên kinh doanh",
+        "phoneNumber": "+84 24 6285 6568",
+        "website": "viettelstore.vn",
+        "icon": "/img/game.png",
+        "label": "1",
+        "defaultTitle": "Full time Job"
+    }
+    ,
+    {
+        "lat": 20.492258, 
+        "lng": 105.84212590,
+        "name": "Viettel Store",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNYTp6PjVN9SYHTXAxNut8fc-unKj39NUOyU7mS=w408-h306-k-no",
+        "address": "514 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+        "infomation": "Tuyển nhân viên kinh doanh",
+        "phoneNumber": "+84 24 6285 6568",
+        "website": "viettelstore.vn",
+        "icon": "/img/tools.png",
+        "label": "1",
+        "defaultTitle": "Full time Job"
+    }
+    ,
+    {
+        "lat": 20.1123258, 
+        "lng": 105.8322133590,
+        "name": "Viettel Store",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNYTp6PjVN9SYHTXAxNut8fc-unKj39NUOyU7mS=w408-h306-k-no",
+        "address": "514 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+        "infomation": "Tuyển nhân viên kinh doanh",
+        "phoneNumber": "+84 24 6285 6568",
+        "website": "viettelstore.vn",
+        "icon": "/img/sneaker.png",
+        "label": "1",
+        "defaultTitle": "Full time Job"
+    }
+    ,
+    {
+        "lat": 20.29123258, 
+        "lng": 105.83243590,
+        "name": "Viettel Store",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNYTp6PjVN9SYHTXAxNut8fc-unKj39NUOyU7mS=w408-h306-k-no",
+        "address": "514 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+        "infomation": "Tuyển nhân viên kinh doanh",
+        "phoneNumber": "+84 24 6285 6568",
+        "website": "viettelstore.vn",
+        "icon": "/img/pets.png",
+        "label": "1",
+        "defaultTitle": "Full time Job"
+    }
+
+]
